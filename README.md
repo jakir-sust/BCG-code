@@ -21,9 +21,6 @@ Our implementation builds upon the official codebase of the [MalNet paper](https
 
 It should contain the **hashed FCG dataset** and **APK features**.
 
-Please download both the hashed FCG dataset and APK feature file from this link:  
-[https://erdemub.github.io/BCG-dataset/](https://erdemub.github.io/BCG-dataset/#Download)
-
 - Place all **hashed FCG** files inside the `datasets/BCG_hashed_FCGs/` directory.  
 - Place the **APK features (BCGAllAPKFeatures.json)** file inside the `datasets/` directory.
 
